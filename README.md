@@ -1,8 +1,8 @@
 # Military Roleplay: Missions
 
-**This Addon includes a base mission to work off of.**
+This Addon includes a base mission to work off of.
 
-**Install like you would normally.**
+Install like you would normally with other resources.
 
 # Commands
 - /mission [missionnumber] | Starts the defined mission.
