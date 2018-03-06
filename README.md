@@ -6,4 +6,4 @@ Install like you would normally with other resources.
 
 # Commands
 - /mission [missionname] | Starts the defined mission.
-- /stop [missionname]| Cancels the mission that is in progress.
+- /stop [missionname] | Cancels the mission that is in progress.
